@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 71f18c59b157d944eac7ef0a2be75040
+timeCreated: 1495101115
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube1
+    100004: pCube3
+    100006: pCube4
+    100008: pCube5
+    100010: pCube6
+    100012: pCube7
+    100014: polyExtrudeFace6Curve
+    100016: polyExtrudeFace7Curve
+    100018: polySurface1
+    100020: polySurface1 1
+    100022: polySurface10
+    100024: polySurface11
+    100026: polySurface12
+    100028: polySurface13
+    100030: polySurface14
+    100032: polySurface15
+    100034: polySurface16
+    100036: polySurface17
+    100038: polySurface18
+    100040: polySurface19
+    100042: polySurface2
+    100044: polySurface20
+    100046: polySurface21
+    100048: polySurface22
+    100050: polySurface22 1
+    100052: polySurface3
+    100054: polySurface4
+    100056: polySurface5
+    100058: polySurface6
+    100060: polySurface7
+    100062: polySurface8
+    100064: polySurface9
+    100066: pTorus1
+    100068: pTorus2
+    100070: transform1
+    100072: transform10
+    100074: transform11
+    100076: transform12
+    100078: transform13
+    100080: transform14
+    100082: transform15
+    100084: transform16
+    100086: transform17
+    100088: transform18
+    100090: transform19
+    100092: transform2
+    100094: transform20
+    100096: transform21
+    100098: transform22
+    100100: transform23
+    100102: transform24
+    100104: transform25
+    100106: transform26
+    100108: transform27
+    100110: transform3
+    100112: transform4
+    100114: transform5
+    100116: transform6
+    100118: transform7
+    100120: transform8
+    100122: transform9
+    100124: HeliBody
+    100126: Propelers
+    100128: Propeller1
+    100130: Propeller2
+    100132: Propeller3
+    100134: Propeller4
+    400000: //RootNode
+    400002: pCube1
+    400004: pCube3
+    400006: pCube4
+    400008: pCube5
+    400010: pCube6
+    400012: pCube7
+    400014: polyExtrudeFace6Curve
+    400016: polyExtrudeFace7Curve
+    400018: polySurface1
+    400020: polySurface1 1
+    400022: polySurface10
+    400024: polySurface11
+    400026: polySurface12
+    400028: polySurface13
+    400030: polySurface14
+    400032: polySurface15
+    400034: polySurface16
+    400036: polySurface17
+    400038: polySurface18
+    400040: polySurface19
+    400042: polySurface2
+    400044: polySurface20
+    400046: polySurface21
+    400048: polySurface22
+    400050: polySurface22 1
+    400052: polySurface3
+    400054: polySurface4
+    400056: polySurface5
+    400058: polySurface6
+    400060: polySurface7
+    400062: polySurface8
+    400064: polySurface9
+    400066: pTorus1
+    400068: pTorus2
+    400070: transform1
+    400072: transform10
+    400074: transform11
+    400076: transform12
+    400078: transform13
+    400080: transform14
+    400082: transform15
+    400084: transform16
+    400086: transform17
+    400088: transform18
+    400090: transform19
+    400092: transform2
+    400094: transform20
+    400096: transform21
+    400098: transform22
+    400100: transform23
+    400102: transform24
+    400104: transform25
+    400106: transform26
+    400108: transform27
+    400110: transform3
+    400112: transform4
+    400114: transform5
+    400116: transform6
+    400118: transform7
+    400120: transform8
+    400122: transform9
+    400124: HeliBody
+    400126: Propelers
+    400128: Propeller1
+    400130: Propeller2
+    400132: Propeller3
+    400134: Propeller4
+    2300000: polySurface10
+    2300002: polySurface13
+    2300004: polySurface22
+    2300006: polySurface4
+    2300008: polySurface7
+    2300010: HeliBody
+    2300012: Propeller1
+    2300014: Propeller2
+    2300016: Propeller3
+    2300018: Propeller4
+    2300020: //RootNode
+    3300000: polySurface10
+    3300002: polySurface13
+    3300004: polySurface22
+    3300006: polySurface4
+    3300008: polySurface7
+    3300010: HeliBody
+    3300012: Propeller1
+    3300014: Propeller2
+    3300016: Propeller3
+    3300018: Propeller4
+    3300020: //RootNode
+    4300000: polySurface4
+    4300002: polySurface7
+    4300004: polySurface10
+    4300006: polySurface13
+    4300008: polySurface22
+    4300010: Propeller1
+    4300012: Propeller2
+    4300014: Propeller3
+    4300016: Propeller4
+    4300018: HeliBody
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

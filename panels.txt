@@ -1,0 +1,17 @@
+Areas;-436;252;0
+UAV;-543;253;0
+Missions;-543;151;0
+Selection;299;253;0
+@sizes;Areas;100;100;60;82;100
+@sizes;UAV;100;100;60;82;100
+@sizes;Missions;150;162;122;132;150
+@sizes;Selection;244;188;148;226;244
+
+
+
+
+
+
+
+
+
