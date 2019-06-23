@@ -9,4 +9,4 @@ The work uses Mapbox to download satellite imagery and elevation data. At first,
 I don't provide the simulator as its 3rd party software and I do not own it, though it can be obtained from [CTU](https://dspace.cvut.cz/handle/10467/68616?show=full).
 
 
-![](http://janovrom.ddns.net/janovrom/FlyOverWorld/blob/ee1488df3524e207e899d10752bd9dcdf5972162/Media/demo1.mp4)
+![](http://janovrom.ddns.net/janovrom/FlyOverWorld/raw/ee1488df3524e207e899d10752bd9dcdf5972162/Media/demo1.mp4)
