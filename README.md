@@ -11,5 +11,5 @@ I don't provide the simulator as its 3rd party software and I do **not** own it,
 <p align="center">
 ![](http://janovrom.ddns.net/janovrom/FlyOverWorld/raw/ee1488df3524e207e899d10752bd9dcdf5972162/Media/demo1.mp4)
 <br/>
-*Short presentation of functionality.*
+<i>Short presentation of functionality</i>
 </p>
