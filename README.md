@@ -1,0 +1,1 @@
+The goal of my master thesis is to create visualisation of unmanned (aerial) vehicles, which are small and fast objects, and connect it to AgentFly simulator. It also tests how useful would be use of web services providing satellite imagery, heightmaps and other information like buildings and landuse.
